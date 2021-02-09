@@ -1,4 +1,4 @@
-@import url(redes/font-awesome.min.css);
+@import url("redes/font-awesome.min.css");
 @import url("http://fonts.googleapis.com/css?family=Raleway:300,700");
 
 /*
@@ -3367,7 +3367,6 @@
 
 		#banner p {
 			font-size: 1.5em;
-			text-transform: uppercase;
 		}
 
 		@media screen and (max-width: 1680px) {
