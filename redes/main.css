@@ -1660,7 +1660,6 @@
 		font-weight: 300;
 		line-height: 1em;
 		margin: 0 0 1em 0;
-		text-transform: uppercase;
 	}
 
 		h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
@@ -1835,7 +1834,6 @@
 		padding: 0 1.5em;
 		text-align: center;
 		text-decoration: none;
-		text-transform: uppercase;
 		white-space: nowrap;
 	}
 
@@ -2259,7 +2257,6 @@
 		header p {
 			position: relative;
 			margin: 0 0 1.5em 0;
-			text-transform: uppercase;
 		}
 
 		header h2, header h3 {
@@ -3498,7 +3495,6 @@
 			margin: 0 0 2em 0;
 			padding: 0;
 			text-align: center;
-			text-transform: uppercase;
 		}
 
 			#footer .copyright li {
