@@ -3272,8 +3272,8 @@
 		#banner input[type="button"],
 		#banner button,
 		#banner .button {
-			background-color: #f7f7f7;
-			color: #555 !important;
+			background-color: #ffffff;
+			color: #fff !important;
 		}
 
 			#banner input[type="submit"]:hover,
@@ -3281,7 +3281,7 @@
 			#banner input[type="button"]:hover,
 			#banner button:hover,
 			#banner .button:hover {
-				background-color: white;
+				background-color: black;
 			}
 
 			#banner input[type="submit"]:active,
@@ -3289,7 +3289,7 @@
 			#banner input[type="button"]:active,
 			#banner button:active,
 			#banner .button:active {
-				background-color: #eaeaea;
+				background-color: #000000;
 			}
 
 			#banner input[type="submit"].alt,
@@ -3331,7 +3331,7 @@
 			#banner input[type="button"].special,
 			#banner button.special,
 			#banner .button.special {
-				background-color: #009a9c;
+				background-color: #FF69B4;
 				color: #fff !important;
 			}
 
@@ -3340,7 +3340,7 @@
 				#banner input[type="button"].special:hover,
 				#banner button.special:hover,
 				#banner .button.special:hover {
-					background-color: #00b4b5;
+					background-color: #CDCDCD;
 				}
 
 				#banner input[type="submit"].special:active,
