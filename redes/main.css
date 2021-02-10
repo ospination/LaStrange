@@ -14,7 +14,7 @@
 		padding: 0;
 		border: 0;
 		font-size: 100%;
-		font: Helvetica;
+		font: inherit;
 		vertical-align: baseline;
 	}
 
@@ -3372,7 +3372,7 @@
 		@media screen and (max-width: 1680px) {
 
 			#banner {
-				padding: 8em 0 6em 0;
+				padding: 8em 0 1em 0;
 			}
 
 		}
