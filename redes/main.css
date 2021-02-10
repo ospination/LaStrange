@@ -14,7 +14,7 @@
 		padding: 0;
 		border: 0;
 		font-size: 100%;
-		font: inherit;
+		font: Helvetica;
 		vertical-align: baseline;
 	}
 
@@ -1826,7 +1826,7 @@
 		-ms-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
 		transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
 		border-radius: 0;
-		border: 0;
+		border: 1;
 		cursor: pointer;
 		display: inline-block;
 		height: 2.85em;
@@ -3360,6 +3360,9 @@
 			padding: 1.1em;
 			position: relative;
 			width: 40%;
+		}
+		#banner li {
+			border-style: solid;
 		}
 
 		#banner p {
