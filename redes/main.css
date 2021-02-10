@@ -2261,7 +2261,7 @@
 
 		header h2, header h3 {
 			display: inline-block;
-			padding-bottom: 0.4em;
+			padding-bottom: 0em;
 			border-bottom-style: double;
 			border-bottom-width: 4px;
 		}
