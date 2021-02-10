@@ -2476,7 +2476,7 @@
 /* Wrapper */
 
 	.wrapper {
-		padding: 6em 0 4em 0;
+		padding: 2em 0 2em 0;
 		position: relative;
 	}
 
@@ -3449,7 +3449,7 @@
 	#footer {
 		background-color: #fff4f3;
 		color: #444;
-		padding: 2em 0 2em 0;
+		padding: 1em 0 1em 0;
 		position: relative;
 	}
 
@@ -3495,7 +3495,7 @@
 		#footer .copyright {
 			color: #bbb;
 			font-size: 0.9em;
-			margin: 0 0 2em 0;
+			margin: 0 0 0 0;
 			padding: 0;
 			text-align: center;
 		}
